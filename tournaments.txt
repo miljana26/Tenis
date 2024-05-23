@@ -1,0 +1,13 @@
+Australian Open,hard,Grand Slam
+Indian Wells Masters,hard,Masters1000
+Miami Open,hard,Masters1000
+Monte-Carlo Masters,clay,Masters1000
+Madrid Open,clay,Masters1000
+Italian Open,clay,Masters1000
+French Open,clay,Grand Slam
+Wimbledon,grass,Grand Slam
+Canadian Open,hard,Masters1000
+Cincinnati Open,hard,Masters1000
+US Open,hard,Grand Slam
+Shanghai Masters,hard,Masters1000
+Paris Masters,hard,Masters1000

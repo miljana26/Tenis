@@ -1,0 +1,16 @@
+1,Novak Djokovic,mentality,hard,0
+2,Carlos Alcaraz,forehand,clay,0
+3,Jannik Sinner,backhand,hard,0
+4,Daniil Medvedev,serve,hard,0
+5,Andrey Rublev,forehand,hard,0
+6,Alexander Zverev,backhand,hard,0
+7,Holger Rune,serve,clay,0
+8,Hubert Hurkacz,serve,grass,0
+9,Casper Ruud,forehand,clay,0
+10,Alex de Minaur,forehand,grass,0
+11,Stefanos Tsitsipas,backhand,grass,0
+12,Taylor Fritz,serve,hard,0
+13,Grigor Dimitrov,forehand,hard,0
+14,Tommy Paul,forehand,clay,0
+15,Karen Khachanov,serve,hard,0
+16,Frances Tiafoe,serve,clay,0
