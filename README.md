@@ -34,3 +34,4 @@ U ovom zadatku je potrebno implementirati simulaciju ATP Tour šampionata. Turni
 ### Napomena
 
 - Projekat je odrađen u NetBeans-u.
+- U klasi `Championship` potrebno je promeniti lokaciju odakle se čitaju txt fajlovi vezani za turnire i za igrače.
